@@ -1,0 +1,2 @@
+# django-boilerplate
+test project
